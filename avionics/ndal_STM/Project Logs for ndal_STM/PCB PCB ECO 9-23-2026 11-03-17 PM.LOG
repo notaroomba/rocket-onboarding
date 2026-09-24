@@ -1,0 +1,23 @@
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U1-45
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=U1-17
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_4 Pin=U1-14
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=U1-25
+Added Net: Name=NetJ10_2
+Added Pin To Net: NetName=NetJ10_4 Pin=J10-4
+Added Pin To Net: NetName=NetJ10_4 Pin=R4-2
+Added Pin To Net: NetName=NetJ10_4 Pin=U1-27
+Added Net: Name=NetJ10_4
+Added Pin To Net: NetName=NetJ10_5 Pin=J10-5
+Added Pin To Net: NetName=NetJ10_5 Pin=R5-2
+Added Pin To Net: NetName=NetJ10_5 Pin=U1-28
+Added Net: Name=NetJ10_5
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
